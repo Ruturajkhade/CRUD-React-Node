@@ -1,7 +1,5 @@
 # CRUD-React-Node
 
-# CRUD-React-Node
-
 A full‑stack **MERN (MongoDB, Express, React, Node.js)** CRUD application that allows users to **create, read, update, and delete user records**.
 
 This project demonstrates building a REST API with **Node + Express**, consuming it with a React frontend, and storing user data in **MongoDB**.
